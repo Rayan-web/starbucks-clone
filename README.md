@@ -1,3 +1,3 @@
- <h1> Star bucks clone (not completed) </h1>
+ <h1> Star bucks clone (not completed yet ) </h1>
 
 <img src="./screen.png"></img>
